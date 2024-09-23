@@ -1,5 +1,5 @@
 # Introducción a Github
-### _por Alvaro Mondongo Piqueras_
+#### _por Alvaro Mondongo Piqueras_
 
 ## Introducción
 Antes de nada, es importante tener una noción general de qué es Github. Ya sea porque el lector de este texto pueda no haber escuchado de la plataforma nunca, o para refrescar conceptos.
@@ -10,18 +10,31 @@ A continuación veremos en más profundidad sus características principales.
 
 ## Características
 #### Almacenar código en un repositorio centralizado
-Es decir, permite crear/subir documentos en linea y acceder en cualquier momento.
+Es decir, permite crear/subir documentos en linea y acceder a ellos en cualquier momento. Con la seguridad/comodidad añadida de que está gestionado y respaldado por los servidores de Github. 
+El proceso para crear un repositorio y añadir contenido es:
+1. Crear una cuenta / iniciar sesión
+2. En la página principal, a la izquierda, hacer click en "New"
+3. Rellenar los datos: repository name, con el nombre que le queramos dar; luego escoger entre "Public" (público) o "Private" (privado)
+4. Hacer click en "Create repository"
+5. En la página del repositorio podemos hacer click en "Add file" y subir los archivos
+Características generales:
+- En la página principal, encontraremos el listado de nuestros repositorios a la izquierda
+- Es necesario tener acceso a internet
+- Se puede acceder/administrar el repositorio a través de la web de Github, la consola de comandos, o aplicaciones que implementen la API de Github
+- Los repositorios pueden ser eliminados en cualquier momento
+
+   
 #### Colaborar con otras personas
-Este acceso en linea se puede extender a más personas, permitiendo así el trabajo en grupo. 
-*Rangos
-*
+Este acceso en línea se puede extender a más personas, permitiendo así el trabajo en grupo. Una característica muy relevante para proyectos de código abierto, y para empresas. Las colaboraciones dependen
+depende
 
-- Non-linear development
-- Collaboration
-- 
+* desarrollo en paralelo
 
-- Passos a seguir per aconseguir les diferents accions
-- Conclusions
+## Comandos relevantes
+
+
+## Resumen
+
 
 
 ## Bibliografía
