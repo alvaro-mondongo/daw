@@ -1,5 +1,5 @@
 # Introducción a Github
-#### _por Alvaro Mondongo Piqueras_
+#### _por Alvaro Collado Piqueras_
 
 ## Introducción
 Antes de nada, es importante tener una noción general de qué es Github. Ya sea porque el lector de este texto pueda no haber escuchado de la plataforma nunca, o para refrescar conceptos.
